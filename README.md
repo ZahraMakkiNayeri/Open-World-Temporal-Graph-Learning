@@ -1,4 +1,4 @@
-# FM-TGN Zero-Day — Results Analysis
+# FM-TGN Zero-Day
 
 **Run:** single leave-one-category-out, held-out = `Availability.DoS`
 (rarest class). Test set: 10,255 interactions, of which 174 (**1.70%**) are
